@@ -1,0 +1,19 @@
+| PROJECT             | COMPONENT          | FILE NAMES                                                                                                                                                                              
+|---------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Consumer mobile app | Login              | final-project\consumer-mobile-app\src\app\login                                                                                                                                          
+| Consumer mobile app | Registration       | final-project\consumer-mobile-app\src\app\register  
+| Consumer mobile app | User Profile       | final-project\consumer-mobile-app\src\app\profile                 
+| Consumer mobile app | List of Properties | final-project\consumer-mobile-app\src\app\home       
+| Consumer mobile app | Property Detail    | final-project\consumer-mobile-app\src\app\listing-details       
+| Consumer mobile app | Booking            | final-project\consumer-mobile-app\src\app\book-now 
+| Provider mobile app | Login              | final-project\provider-mobile-app\src\app\login              
+| Provider mobile app | Registration       | final-project\provider-mobile-app\src\app\register 
+| Provider mobile app | User Profile       | final-project\provider-mobile-app\src\app\profile                 
+| Provider mobile app | List of Properties | final-project\provider-mobile-app\src\app\existing-rentals     
+| Provider mobile app | List of Bookings   | final-project\provider-mobile-app\src\app\booking-requests         
+| Provider mobile app | Create Listing     | final-project\provider-mobile-app\src\app\create-rental & fs-bnb\provider-mobile-app\src\app\pages\create-rental-images          
+| Provider mobile app | Update Listing     | final-project\provider-mobile-app\src\app\update-rental         
+| Provider mobile app | Delete Listing     | final-project\provider-mobile-app\src\app\delete-rental                                         
+| API                 | Users              | final-project\API\src\api\user-routes.js & fs-bnb\API\src\api\auth-routes.js & fs-bnb\API\src\services\auth-service.js & fs-bnb\API\src\models/user-model.js  
+| API                 | Providers          | 
+| API                 | Listing            | 
